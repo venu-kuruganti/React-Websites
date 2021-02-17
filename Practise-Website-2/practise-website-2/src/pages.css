@@ -1,0 +1,12 @@
+.menu-bar{
+    width:250px;
+    height:auto;
+}
+
+.menu-item{
+    margin-left:10px;
+    margin-right: 10px;
+    font-weight: bold;
+    width:100px;
+    display: inline-block;    
+  }
